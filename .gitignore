@@ -14,3 +14,7 @@ logs/
 
 # videos, a soft link to disk
 data/videos
+
+expert_data
+
+.python-version
